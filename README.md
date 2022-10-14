@@ -20,7 +20,7 @@ Build a Portfolio website with only HTML that has the following pages:
 - It should have the heading "Contact Me"
 - It should have a navigation to the Home and Contact pages
 - It should have a form with the following fields:
-  - An input element for the user's First Name
+  - An input element for the user's First Name 
   - An input element for the user's Last Name
   - An input element for the user's Date of Birth
   - A textearea for the user's message
